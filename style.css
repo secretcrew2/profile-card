@@ -6,7 +6,7 @@
     padding: 0;
 }
 body{
-    background: url('images/bg-pattern-top.svg'), hsl(185, 75%, 39%);
+    background: url('images/bg-pattern-top.svg') no-repeat top -30rem left -25rem, url('images/bg-pattern-top.svg') no-repeat bottom -36rem left 50rem, hsl(185, 75%, 39%) no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
